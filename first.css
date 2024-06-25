@@ -1,0 +1,11 @@
+.para{
+    background-color: green;
+    color: red;
+    text-align: justify;
+    padding: 20px;
+    border: 2px solid #ffff00;
+    border-radius: 10px
+}
+span{
+    color: yellow;
+}
